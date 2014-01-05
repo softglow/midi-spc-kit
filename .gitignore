@@ -1,3 +1,10 @@
+# Test files
+/test/*
+
+# Editor files
+.*.swp
+
+# Python compilation files
 *.py[cod]
 
 # C extensions
